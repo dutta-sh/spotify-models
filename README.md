@@ -5,7 +5,7 @@ This is a continuation of the earlier [Spotify data analysis and EDA](https://gi
 
 We continue where we left off, by doing a quick recap of the EDA and fixing some assumptions we made earlier.
 
-The notebook is present in this [github repo](./fixme.ipynb) as well as on [Google Colab](https://colab.research.google.com/drive/1IFE7Hq_J26Ge5zMrbBDH5YzP9Dyv9gkX?usp=sharing).
+The notebook is present in this [github repo](./Capstone_Final.ipynb) as well as on [Google Colab](https://colab.research.google.com/drive/16v499WCvvhqz7w4FBWgYbKU7tlMSq2HS?usp=sharing).
 
 ## Problem Statement
 
